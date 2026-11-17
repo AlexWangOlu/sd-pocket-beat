@@ -1,0 +1,8 @@
+# Keep the repo LF so the same files behave on Linux servers.
+* text=auto eol=lf
+
+*.png binary
+*.webp binary
+*.jpg binary
+*.7z binary
+*.zip binary

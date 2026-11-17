@@ -1,0 +1,14 @@
+# release archives are pushed to Releases, not committed
+*.7z
+*.zip
+
+# scratch files
+.stage/
+_*.html
+_*.png
+_*.py
+
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
